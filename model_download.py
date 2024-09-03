@@ -11,7 +11,7 @@ import platform
 from tqdm import tqdm
 from urllib.request import urlretrieve
 
-login(token = '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')
+login(token = '')
 
 def _log(_repo_id, _type, _msg):
     date1 = time.strftime('%Y-%m-%d %H:%M:%S')
